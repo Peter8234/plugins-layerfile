@@ -1,5 +1,0 @@
-<keymap version="1" name="XWin copy" parent="Default for XWin">
-  <action id="PsiViewerForContext">
-    <keyboard-shortcut first-keystroke="alt released enter" />
-  </action>
-</keymap>
