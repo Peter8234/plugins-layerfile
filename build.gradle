@@ -16,12 +16,21 @@ dependencies {
     testImplementation group: 'junit', name: 'junit', version: '4.13.2'
 }
 
+publishPlugin {
+    token = System.getenv("ORG_GRADLE_PROJECT_PublishToken")
+}
+
+publishPlugin {
+    channels = ['alpha']
+}
+
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
     version = '2021.3'
 }
+
 patchPluginXml {
-    changeNotes = """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
+    changeNotes = """ 
+    Initialial release
+"""
 }
