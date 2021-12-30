@@ -1,0 +1,15 @@
+{
+    "fileHashCode": 3804,
+    "sha256": "c75a5b5777effde24e813ce2e3847abedae0f7eb2fa9b38e21e6fd650d0b7d65",
+    "projectName": "plugins-layerfile",
+    "dependencies": [
+        {
+            "coordinates": {
+                "groupId": "junit",
+                "artifactId": "junit",
+                "version": "4.13.2"
+            },
+            "scope": "testImplementation"
+        }
+    ]
+}

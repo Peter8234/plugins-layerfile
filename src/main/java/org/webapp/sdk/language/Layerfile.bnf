@@ -1,0 +1,42 @@
+{
+  parserClass="org.webapp.sdk.language.parser.LayerParser"
+
+  extends="com.intellij.extapi.psi.ASTWrapperPsiElement"
+
+  psiClassPrefix="Layer"
+  psiImplClassSuffix="Impl"
+  psiPackage="org.webapp.sdk.language.psi"
+  psiImplPackage="org.webapp.sdk.language.psi.impl"
+
+  elementTypeHolderClass="org.webapp.sdk.language.psi.LayerTypes"
+  elementTypeClass="org.webapp.sdk.language.psi.LayerElementType"
+  tokenTypeClass="org.webapp.sdk.language.psi.LayerTokenType"
+}
+layerfile ::= item_*
+private item_ ::= button_cmd | cache_cmd | checkpoint_cmd | from_cmd | clone_cmd | copy_cmd | env_cmd |  build_env_cmd |
+                  from_cmd | memory_cmd | run_cmd | run_background_cmd | run_repeatable_cmd |
+                  secret_env_cmd | setup_file_cmd | skip_remain_if_cmd | split_cmd | expose_website_cmd |
+                  user_cmd | wait_cmd | workdir_cmd | COMMENT | PARTIAL;
+
+button_cmd::= BUTTON BUTTON_DATA EOL;
+cache_cmd::= CACHE FILE+ EOL;
+checkpoint_cmd::= CHECKPOINT CHECKPOINT_VALUE* EOL;
+clone_cmd::= CLONE (VALUE OPERATOR (STRING | VALUE) | VALUE | STRING)+ EOL;
+copy_cmd::= COPY FILE FILE+ EOL;
+env_cmd::= ENV (VALUE OPERATOR (STRING | VALUE) | VALUE (VALUE | STRING))+ EOL;
+build_env_cmd::= BUILD_ENV BUILD_ENV_VALUE+ EOL;
+from_cmd::= FROM FROM_DATA EOL;
+memory_cmd::= MEMORY MEMORY_AMOUNT EOL;
+run_cmd::= RUN RUN_DATA+ EOL;
+run_background_cmd::= RUN_BACKGROUND RUN_DATA+ EOL;
+run_repeatable_cmd::= RUN_REPEATABLE RUN_DATA+ EOL;
+secret_env_cmd::= SECRET_ENV SECRET_ENV_VALUE+ EOL;
+setup_file_cmd::= SETUP_FILE FILE+ EOL;
+skip_remain_if_cmd::= SKIP_REMAINING_IF SKIP_VALUE OPERATOR (SKIP_VALUE | STRING) (SKIP_REMAINING_IF_AND SKIP_VALUE OPERATOR (SKIP_VALUE | STRING))* EOL;
+split_cmd::= SPLIT SPLIT_NUMBER EOL;
+expose_website_cmd::= EXPOSE_WEBSITE WEBSITE_ITEM+ EOL;
+user_cmd::= USER USER_NAME EOL;
+wait_cmd::= WAIT FILE+ EOL;
+workdir_cmd::= WORKDIR FILE+ EOL;
+
+

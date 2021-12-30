@@ -1,0 +1,189 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="plugins-layerfile" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/webapp/sdk/language/LayerfileLanguage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Layerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="81" column="4" selection-start-line="81" selection-end-line="81" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/webapp/sdk/language/LayerfileIcon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="10" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="2" lastUsed="1640251259727" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="385" lastUsed="1640859631976" />
+    </fileType>
+    <fileType name="Layerfile">
+      <summary usageCount="239" lastUsed="1640859631809" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Layerfile" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="plugins-layerfile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugins-layerfile" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="plugins-layerfile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugins-layerfile" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plugins-layerfile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugins-layerfile" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="plugins-layerfile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugins-layerfile" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plugins-layerfile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugins-layerfile" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="language" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34257323" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Pull Requests" order="5" />
+      <window_info id="Space Code Reviews" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3299712" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" visible="true" weight="0.3299712" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Dependencies" order="11" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Layout Validation" order="2" />
+      <window_info anchor="right" id="documentation.v2" order="3" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="1056" y="292" width="757" height="431" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640250830027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1056" y="292" width="757" height="431" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1640250830027" />
+    <state x="480" y="-21" width="800" height="600" key="#com.intellij.internal.psiView.PsiViewerDialog" timestamp="1640858815806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="480" y="-21" width="800" height="600" key="#com.intellij.internal.psiView.PsiViewerDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1640858815806" />
+    <state x="1011" y="165" width="828" height="521" key="IDE.errors.dialog" timestamp="1640679453906">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1011" y="165" width="828" height="521" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1640679453906" />
+    <state x="894" y="129" key="SettingsEditor" timestamp="1640699599034">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="894" y="129" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1640699599034" />
+    <state x="1080" y="328" width="672" height="685" key="search.everywhere.popup" timestamp="1640856590945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1080" y="328" width="672" height="685" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1640856590945" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lamefile" />
+    <entry file="file://$PROJECT_DIR$/src/test.layerfile" />
+    <entry file="file://$PROJECT_DIR$/src/main/gen/org/webapp/sdk/language/psi/SimpleButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/gen/org/webapp/sdk/language/psi/SimpleBuildEnvCmd.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/webapp/sdk/language/LayerfileLanguage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/webapp/sdk/language/LayerfileIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="10" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Layerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="81" column="4" selection-start-line="81" selection-end-line="81" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

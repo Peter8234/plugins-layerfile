@@ -1,0 +1,83 @@
+FROM vm/ubuntu:18.04
+FROM vm/rails:2.7.1
+
+# install apt dependencies
+RUN apt-get update
+CACHE /var/lib/apt
+RUN apt-get -y install python3 curl
+CHECKPOINT
+
+ENV a=b c d
+ENV NODE_OPTIONS="--max-old-space-size=8192"
+ENV a=`echo hello` b=$(echo hello) c='echo hello' d="echo hello"
+BUILD ENV GIT_BRANCH
+
+# install app
+WORKDIR /tmp/hello
+COPY example.txt ./
+RUN BACKGROUND python3 -m http.server 8080
+RUN python3 -m http.server 8080& sleep 5
+EXPOSE WEBSITE 8080 /api
+EXPOSE WEBSITE https://localhost
+MEMORY 1G
+
+
+WORKDIR dawedawedawedaewdawede
+
+CLONE "git@github.com:hello/my repo has spaces.git" /clone-dest
+CLONE "a@a.a/git" /a /b DEFAULT='hello world' /clone-dest
+CLONE https://github.com/webappio/docs.git services/web/app/routes/docs/docs
+
+CHECKPOINT test-and-push
+BUTTON deploy?
+
+BUILD ENV dawedawed
+
+
+BUILD ENV deawd
+
+
+
+SECRET ENV thesecret variables
+
+RUN if [ "$(curl localhost:8080/example.txt)" = "data from example.txt" ]; then \
+      echo 'success!'; \
+    else \
+      echo 'failed!'; \
+    fi
+
+USER testuser---z00_
+
+SKIP REMAINING IF API_EXTRA="" AND LAYERCI != true
+SKIP REMAINING IF GIT_BRANCH =~ "m.*ster spaces" AND JOB_ID !=~ "layerci/.*"
+
+BUILD ENV GIT_CLONE_USER
+SKIP REMAINING IF API_EXTRA="" AND LAYERCI != true
+
+
+BUILD ENV GIT_CLONE_USER
+
+
+RUN BACKGROUND dawedawed
+
+BUILD ENV dawedawed
+SECRET ENV dawdawedawedaewdawed
+BUILD ENV GIT_CLONE_USER
+BUILD ENV GIT_COMMIT
+
+SKIP REMAINING IF deawed=wadawed
+
+CACHE dawedawed
+
+BUILD ENV GIT_CLONE_USER
+
+RUN REPEATABLE dewadwade
+
+
+CACHE deawedawed
+
+SKIP REMAINING IF GIT_COMMIT="dawedawed" AND  CI="dawedawed"
+
+
+WAIT  some/other/Layerfile
+SPLIT 5

@@ -1,0 +1,26 @@
+<idea-plugin>
+  <version>1.0</version>
+  <change-notes>Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="213.5744" until-build="213.*" />
+  <id>org.webapp.plugins-layerfile</id>
+  <name>plugins-layerfile</name>
+  <vendor email="peter@webapp.io" url="http://www.webapp.io">webapp</vendor>
+  <description><![CDATA[Layerfile plugin for Jetbrains platform includes support for syntax highlighting,
+    diagnostics and code completion]]></description>
+  <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <fileType name="Layerfile" implementationClass="org.webapp.sdk.language.LayerfileType" fieldName="INSTANCE" language="Layerfile" extensions="layerfile" fileNames="Layerfile" />
+    <lang.parserDefinition language="Layerfile" implementationClass="org.webapp.sdk.language.LayerfileParserDefinition" />
+    <lang.syntaxHighlighterFactory language="Layerfile" implementationClass="org.webapp.sdk.language.LayerSyntaxHighlighterFactory" />
+    <colorSettingsPage implementation="org.webapp.sdk.language.LayerColorSettingsPage" />
+    <completion.contributor language="Layerfile" implementationClass="org.webapp.sdk.language.LayerfileCompletionContributor" />
+    <lang.documentationProvider language="Layerfile" implementationClass="org.webapp.sdk.language.LayerDocumentationProvider" />
+  </extensions>
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+</idea-plugin>

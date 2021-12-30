@@ -1,0 +1,698 @@
+{
+    "maxSize": 2000,
+    "map": [
+        {
+            "versionName": "4.13.2",
+            "isStable": true,
+            "releasedAt": 1613233912000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13.2",
+                "isStable": true,
+                "releasedAt": 1613233912000
+            },
+            "original": {
+                "versionName": "4.13.2",
+                "isStable": true,
+                "releasedAt": 1613233912000
+            },
+            "semanticPart": "4.13.2",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.13.1",
+            "isStable": true,
+            "releasedAt": 1602429587000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13.1",
+                "isStable": true,
+                "releasedAt": 1602429587000
+            },
+            "original": {
+                "versionName": "4.13.1",
+                "isStable": true,
+                "releasedAt": 1602429587000
+            },
+            "semanticPart": "4.13.1",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.8.1",
+            "isStable": true,
+            "releasedAt": 1581298977000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.8.1",
+                "isStable": true,
+                "releasedAt": 1581298977000
+            },
+            "original": {
+                "versionName": "4.8.1",
+                "isStable": true,
+                "releasedAt": 1581298977000
+            },
+            "semanticPart": "4.8.1",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.13",
+            "isStable": true,
+            "releasedAt": 1577893485000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13",
+                "isStable": true,
+                "releasedAt": 1577893485000
+            },
+            "original": {
+                "versionName": "4.13",
+                "isStable": true,
+                "releasedAt": 1577893485000
+            },
+            "semanticPart": "4.13",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.13-rc-2",
+            "isStable": false,
+            "releasedAt": 1575194515000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13-rc-2",
+                "isStable": false,
+                "releasedAt": 1575194515000
+            },
+            "original": {
+                "versionName": "4.13-rc-2",
+                "isStable": false,
+                "releasedAt": 1575194515000
+            },
+            "semanticPart": "4.13",
+            "stabilityMarker": "-rc-2",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.13-rc-1",
+            "isStable": false,
+            "releasedAt": 1572092249000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13-rc-1",
+                "isStable": false,
+                "releasedAt": 1572092249000
+            },
+            "original": {
+                "versionName": "4.13-rc-1",
+                "isStable": false,
+                "releasedAt": 1572092249000
+            },
+            "semanticPart": "4.13",
+            "stabilityMarker": "-rc-1",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.13-beta-3",
+            "isStable": false,
+            "releasedAt": 1557060706000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13-beta-3",
+                "isStable": false,
+                "releasedAt": 1557060706000
+            },
+            "original": {
+                "versionName": "4.13-beta-3",
+                "isStable": false,
+                "releasedAt": 1557060706000
+            },
+            "semanticPart": "4.13",
+            "stabilityMarker": "-beta-3",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.13-beta-2",
+            "isStable": false,
+            "releasedAt": 1549115958000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13-beta-2",
+                "isStable": false,
+                "releasedAt": 1549115958000
+            },
+            "original": {
+                "versionName": "4.13-beta-2",
+                "isStable": false,
+                "releasedAt": 1549115958000
+            },
+            "semanticPart": "4.13",
+            "stabilityMarker": "-beta-2",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.13-beta-1",
+            "isStable": false,
+            "releasedAt": 1543158554000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13-beta-1",
+                "isStable": false,
+                "releasedAt": 1543158554000
+            },
+            "original": {
+                "versionName": "4.13-beta-1",
+                "isStable": false,
+                "releasedAt": 1543158554000
+            },
+            "semanticPart": "4.13",
+            "stabilityMarker": "-beta-1",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.12",
+            "isStable": true,
+            "releasedAt": 1417709863000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.12",
+                "isStable": true,
+                "releasedAt": 1417709863000
+            },
+            "original": {
+                "versionName": "4.12",
+                "isStable": true,
+                "releasedAt": 1417709863000
+            },
+            "semanticPart": "4.12",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.12-beta-3",
+            "isStable": false,
+            "releasedAt": 1415548411000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.12-beta-3",
+                "isStable": false,
+                "releasedAt": 1415548411000
+            },
+            "original": {
+                "versionName": "4.12-beta-3",
+                "isStable": false,
+                "releasedAt": 1415548411000
+            },
+            "semanticPart": "4.12",
+            "stabilityMarker": "-beta-3",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.12-beta-2",
+            "isStable": false,
+            "releasedAt": 1411624480000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.12-beta-2",
+                "isStable": false,
+                "releasedAt": 1411624480000
+            },
+            "original": {
+                "versionName": "4.12-beta-2",
+                "isStable": false,
+                "releasedAt": 1411624480000
+            },
+            "semanticPart": "4.12",
+            "stabilityMarker": "-beta-2",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.12-beta-1",
+            "isStable": false,
+            "releasedAt": 1406493686000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.12-beta-1",
+                "isStable": false,
+                "releasedAt": 1406493686000
+            },
+            "original": {
+                "versionName": "4.12-beta-1",
+                "isStable": false,
+                "releasedAt": 1406493686000
+            },
+            "semanticPart": "4.12",
+            "stabilityMarker": "-beta-1",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.11",
+            "isStable": true,
+            "releasedAt": 1352924505000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.11",
+                "isStable": true,
+                "releasedAt": 1352924505000
+            },
+            "original": {
+                "versionName": "4.11",
+                "isStable": true,
+                "releasedAt": 1352924505000
+            },
+            "semanticPart": "4.11",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.11-beta-1",
+            "isStable": false,
+            "releasedAt": 1350330351000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.11-beta-1",
+                "isStable": false,
+                "releasedAt": 1350330351000
+            },
+            "original": {
+                "versionName": "4.11-beta-1",
+                "isStable": false,
+                "releasedAt": 1350330351000
+            },
+            "semanticPart": "4.11",
+            "stabilityMarker": "-beta-1",
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.10",
+            "isStable": true,
+            "releasedAt": 1317323543000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.10",
+                "isStable": true,
+                "releasedAt": 1317323543000
+            },
+            "original": {
+                "versionName": "4.10",
+                "isStable": true,
+                "releasedAt": 1317323543000
+            },
+            "semanticPart": "4.10",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.9",
+            "isStable": true,
+            "releasedAt": 1314036937000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.9",
+                "isStable": true,
+                "releasedAt": 1314036937000
+            },
+            "original": {
+                "versionName": "4.9",
+                "isStable": true,
+                "releasedAt": 1314036937000
+            },
+            "semanticPart": "4.9",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.8.2",
+            "isStable": true,
+            "releasedAt": 1286268688000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.8.2",
+                "isStable": true,
+                "releasedAt": 1286268688000
+            },
+            "original": {
+                "versionName": "4.8.2",
+                "isStable": true,
+                "releasedAt": 1286268688000
+            },
+            "semanticPart": "4.8.2",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.8",
+            "isStable": true,
+            "releasedAt": 1286268656000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.8",
+                "isStable": true,
+                "releasedAt": 1286268656000
+            },
+            "original": {
+                "versionName": "4.8",
+                "isStable": true,
+                "releasedAt": 1286268656000
+            },
+            "semanticPart": "4.8",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.7",
+            "isStable": true,
+            "releasedAt": 1250092447000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.7",
+                "isStable": true,
+                "releasedAt": 1250092447000
+            },
+            "original": {
+                "versionName": "4.7",
+                "isStable": true,
+                "releasedAt": 1250092447000
+            },
+            "semanticPart": "4.7",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.6",
+            "isStable": true,
+            "releasedAt": 1241897912000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.6",
+                "isStable": true,
+                "releasedAt": 1241897912000
+            },
+            "original": {
+                "versionName": "4.6",
+                "isStable": true,
+                "releasedAt": 1241897912000
+            },
+            "semanticPart": "4.6",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.5",
+            "isStable": true,
+            "releasedAt": 1219147936000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.5",
+                "isStable": true,
+                "releasedAt": 1219147936000
+            },
+            "original": {
+                "versionName": "4.5",
+                "isStable": true,
+                "releasedAt": 1219147936000
+            },
+            "semanticPart": "4.5",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.4",
+            "isStable": true,
+            "releasedAt": 1184854416000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.4",
+                "isStable": true,
+                "releasedAt": 1184854416000
+            },
+            "original": {
+                "versionName": "4.4",
+                "isStable": true,
+                "releasedAt": 1184854416000
+            },
+            "semanticPart": "4.4",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.3.1",
+            "isStable": true,
+            "releasedAt": 1175201214000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.3.1",
+                "isStable": true,
+                "releasedAt": 1175201214000
+            },
+            "original": {
+                "versionName": "4.3.1",
+                "isStable": true,
+                "releasedAt": 1175201214000
+            },
+            "semanticPart": "4.3.1",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.3",
+            "isStable": true,
+            "releasedAt": 1174403598000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.3",
+                "isStable": true,
+                "releasedAt": 1174403598000
+            },
+            "original": {
+                "versionName": "4.3",
+                "isStable": true,
+                "releasedAt": 1174403598000
+            },
+            "semanticPart": "4.3",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.2",
+            "isStable": true,
+            "releasedAt": 1163715914000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.2",
+                "isStable": true,
+                "releasedAt": 1163715914000
+            },
+            "original": {
+                "versionName": "4.2",
+                "isStable": true,
+                "releasedAt": 1163715914000
+            },
+            "semanticPart": "4.2",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.1",
+            "isStable": true,
+            "releasedAt": 1160137827000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.1",
+                "isStable": true,
+                "releasedAt": 1160137827000
+            },
+            "original": {
+                "versionName": "4.1",
+                "isStable": true,
+                "releasedAt": 1160137827000
+            },
+            "semanticPart": "4.1",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "3.8.2",
+            "isStable": true,
+            "releasedAt": 1141428146000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "3.8.2",
+                "isStable": true,
+                "releasedAt": 1141428146000
+            },
+            "original": {
+                "versionName": "3.8.2",
+                "isStable": true,
+                "releasedAt": 1141428146000
+            },
+            "semanticPart": "3.8.2",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.0",
+            "isStable": true,
+            "releasedAt": 1140290212000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.0",
+                "isStable": true,
+                "releasedAt": 1140290212000
+            },
+            "original": {
+                "versionName": "4.0",
+                "isStable": true,
+                "releasedAt": 1140290212000
+            },
+            "semanticPart": "4.0",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "3.8",
+            "isStable": true,
+            "releasedAt": 1122889369000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "3.8",
+                "isStable": true,
+                "releasedAt": 1122889369000
+            },
+            "original": {
+                "versionName": "3.8",
+                "isStable": true,
+                "releasedAt": 1122889369000
+            },
+            "semanticPart": "3.8",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "3.8.1",
+            "isStable": true,
+            "releasedAt": 1122889368000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "3.8.1",
+                "isStable": true,
+                "releasedAt": 1122889368000
+            },
+            "original": {
+                "versionName": "3.8.1",
+                "isStable": true,
+                "releasedAt": 1122889368000
+            },
+            "semanticPart": "3.8.1",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "3.7",
+            "isStable": true,
+            "releasedAt": 1122889368000
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "3.7",
+                "isStable": true,
+                "releasedAt": 1122889368000
+            },
+            "original": {
+                "versionName": "3.7",
+                "isStable": true,
+                "releasedAt": 1122889368000
+            },
+            "semanticPart": "3.7",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        },
+        {
+            "versionName": "4.13.2",
+            "isStable": true,
+            "releasedAt": null
+        },
+        {
+            "type": "com.jetbrains.packagesearch.intellij.plugin.ui.toolwindow.models.versions.NormalizedPackageVersion.Semantic",
+            "originalVersion": {
+                "versionName": "4.13.2",
+                "isStable": true,
+                "releasedAt": null
+            },
+            "original": {
+                "versionName": "4.13.2",
+                "isStable": true,
+                "releasedAt": null
+            },
+            "semanticPart": "4.13.2",
+            "stabilityMarker": null,
+            "nonSemanticSuffix": null
+        }
+    ]
+}
